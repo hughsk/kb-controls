@@ -1,7 +1,7 @@
 {
-  "name": "kb-controls",
+  "name": "kb-controls-iframed",
   "version": "0.0.2",
-  "description": "present a polling interface for keyboard state given a binding object",
+  "description": "present a polling interface for keyboard state given a binding object (temporary fork)",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
